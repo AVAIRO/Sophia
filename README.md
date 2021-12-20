@@ -1,4 +1,4 @@
-# Sophia
+# ZARA 
 Simple whatsapp bot | Reedited from whatsasena 
 
 
